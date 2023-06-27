@@ -9,6 +9,6 @@ I am a DevOps Engineer from Germany. I love clean solutions but do some hacky th
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-liart-five-83.vercel.app/api?username=flokoe&show=reviews&hide=stars&show_icons=true&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-liart-five-83.vercel.app/api/top-langs/?username=flokoe&theme=transparent&layout=compact&hide=javascript,css,html,nunjucks,svelte,java,smarty,typescript,jinja,roff,php,vim%20script&langs_count=8&card_width=320" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-liart-five-83.vercel.app/api/top-langs/?username=flokoe&theme=transparent&layout=compact&hide=javascript,css,html,nunjucks,svelte,java,smarty,typescript,jinja,roff,php,vim%20script" />
 </a>
