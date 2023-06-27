@@ -6,5 +6,9 @@ I am a DevOps Engineer from Germany. I love clean solutions but do some hacky th
 
 ### Stats
 
-| [![flokoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=flokoe&show=reviews&hide=stars&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flokoe&theme=transparent&layout=compact&hide=javascript&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
-| --- | --- |
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-liart-five-83.vercel.app/api?username=flokoe&show=reviews&hide=stars&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-liart-five-83.vercel.app/api/top-langs/?username=flokoe&theme=transparent&layout=compact&hide=javascript,css,html,nunjucks,svelte,java,smarty,typescript,jinja,roff,php,vim%20script&langs_count=8&card_width=320" />
+</a>
