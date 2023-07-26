@@ -2,7 +2,7 @@
 
 I am a DevOps Engineer from Germany. I love clean solutions but do some hacky things sometimes. I am passionate about Open Source, GNU/Linux, automation, and generally speaking, modern systems operations.
 
-✨ [Check out my website flokoe.de for more](https://www.flokoe.de/) ✨
+✨ [Check out my website/blog flokoe.de for more](https://www.flokoe.de/) ✨
 
 ### Stats
 
